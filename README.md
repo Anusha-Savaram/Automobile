@@ -1,4 +1,4 @@
-# ML Assignment 2: Automobile Price Prediction Capstone
+# Automobile Price Prediction Capstone
 
 ## Overview
 This repository contains the work for the Machine Learning Assignment 2, focusing on predicting automobile prices. The objective is to build a model that understands the factors influencing car prices, thereby aiding an automobile company in effectively launching and pricing their new car in the market.
